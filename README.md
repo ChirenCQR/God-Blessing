@@ -2,7 +2,7 @@
 一个关于神灵的Minecraft模组。
 > One mod of Minecraft about gods.
 
-[![UjncND.png](https://s1.ax1x.com/2020/07/24/UjncND.png)](https://imgchr.com/i/UjncND)
+[![UjncND.png](https://s1.ax1x.com/2020/07/24/UjncND.png)
 
 ## 神灵系统
 >神灵也分善恶，善神会给予玩家祝福，恶神则会给予玩家诅咒。
