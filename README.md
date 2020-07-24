@@ -2,7 +2,7 @@
 一个关于神灵的Minecraft模组。
 > One mod of Minecraft about gods.
 
-![alt 模组logo](https://s1.ax1x.com/2020/07/24/UjncND.png)
+[![UjncND.png](https://s1.ax1x.com/2020/07/24/UjncND.png)](https://imgchr.com/i/UjncND)
 
 ![alt 小组logo](https://s1.ax1x.com/2020/07/24/UjmLOx.th.png)
 
