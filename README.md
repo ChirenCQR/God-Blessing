@@ -4,10 +4,6 @@
 
 [![UjncND.png](https://s1.ax1x.com/2020/07/24/UjncND.png)](https://imgchr.com/i/UjncND)
 
-![alt 小组logo](https://s1.ax1x.com/2020/07/24/UjmLOx.th.png)
-
-**由MC百科嗷呜机工作室制作**
-
 ## 神灵系统
 >神灵也分善恶，善神会给予玩家祝福，恶神则会给予玩家诅咒。
 
@@ -30,7 +26,9 @@
 >恶神
 
 ## 后记
-本模组由MC百科嗷呜机工作室制作，未经本工作室的允许，禁止转载本MOD以及进行二次分发。
+>本模组由**MC百科嗷呜机工作室**制作，未经本工作室的允许，禁止转载本MOD以及进行二次分发。
+
+![alt 小组logo](https://s1.ax1x.com/2020/07/24/UjmLOx.th.png)
 
 
 
