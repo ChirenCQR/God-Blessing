@@ -2,6 +2,9 @@
 一个关于神灵的Minecraft模组。
 > One mod of Minecraft about gods.
 
+![alt 模组logo](https://s1.ax1x.com/2020/07/24/UjncND.th.png)
+
+由MC百科嗷呜机工作室制作。
 ![alt 小组logo](https://s1.ax1x.com/2020/07/24/UjmLOx.th.png)
 
 ## 神灵系统
