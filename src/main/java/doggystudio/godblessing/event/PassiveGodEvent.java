@@ -1,11 +1,6 @@
 package doggystudio.godblessing.event;
 
-
-
-
-
 import java.util.Random;
-
 import doggystudio.godblessing.GodBlessing;
 import doggystudio.godblessing.potion.EffectRegistry;
 import net.minecraft.potion.EffectInstance;
@@ -14,17 +9,16 @@ import net.minecraft.util.text.TranslationTextComponent;
 import net.minecraftforge.event.TickEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 
-public class PassiveGodEvent {
+public class PassiveGodEvent 
+{
 
 
 	@SubscribeEvent
 	public static void dailyGod(TickEvent.PlayerTickEvent event) 
+{
+        if(event.player.getEntityWorld().getDayTime() % 24000 == 0||event.player.getEntityWorld().getDayTime() == 0) 
 	{
-
-		if(event.player.getEntityWorld().getDayTime() % 24000 == 0||event.player.getEntityWorld().getDayTime() == 0) 
-		{
         int i = new Random().nextInt(5);
-        
         switch(i)
         {
         case 0 : event.player.addPotionEffect(new EffectInstance(EffectRegistry.TYCHE,23999));
@@ -38,7 +32,7 @@ public class PassiveGodEvent {
 		default : event.player.sendMessage(new TranslationTextComponent(GodBlessing.MODID + "beshaba")); ;
         }
 	
-	    }
+        }
 
 }
 	
