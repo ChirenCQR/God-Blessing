@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[31,)" 
+[[mods]] #mandatory
+modId="godblessing" 
+version="${file.jarVersion}" 
+displayName="God Blessing" 
+authors="Chiren Chen" 
+logoFile="logo.png"
+description='''
+神佑，一个关于神灵的模组，嗷呜机工作室出品。
+'''
