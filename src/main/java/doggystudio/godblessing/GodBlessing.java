@@ -19,7 +19,7 @@ import org.apache.logging.log4j.Logger;
 
 import doggystudio.godblessing.event.PassiveGodEvent;
 import doggystudio.godblessing.potion.EffectRegistry;
-import doggystudio.godblessing.render.RenderGodIcon;
+
 
 import java.util.stream.Collectors;
 
